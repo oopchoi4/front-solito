@@ -1,7 +1,9 @@
-# Blank Solito Example Monorepo 🕴
+# oopchoi4 공유 프로젝트에 오신 것을 환영합니다. 🕴
 
 ```sh
-npx create-solito-app@latest my-solito-app
+git clone git@github.com:oopchoi4/front-solito.git
+cd my-solito-app
+yarn web
 ```
 
 👾 [View the website](https://example.solito.dev)
@@ -12,9 +14,15 @@ npx create-solito-app@latest my-solito-app
 
 ## 🔦 About
 
-This monorepo is a blank(ish) starter for an Expo + Next.js app.
+웹 : Next.js, React.js, TypeScript.js
+네이티브 앱 : Expo
 
-While it's pretty barebones, it does a lot of the annoying config for you. The folder structure is opinionated, based on my long experience building for this stack.
+웹과, 앱을 동시에 하나의 프로젝트를 통해 관리합니다.
+사용자를 위한 UI를 제공합니다.
+solito에서 제공하는 보일러플레이트 기반으로 시작합니다.
+solito 내부 구조를 파악하고 필요한 기능들을 계속 추가해 나갈 예정입니다.
+
+본 프로젝트는 원 제작자의 라이선스를 따릅니다.
 
 ## 📦 Included packages
 
